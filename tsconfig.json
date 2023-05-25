@@ -16,8 +16,9 @@
     "incremental": true,
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    "baseUrl": "."
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "service/carsInfo.jsx"],
   "exclude": ["node_modules"]
 }
