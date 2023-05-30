@@ -28,7 +28,7 @@ const Navbar = () => {
     },
     {
     title: "Sign In",
-    path: "/signin",
+    path: "/signIn",
     id: 5,
     
   },
