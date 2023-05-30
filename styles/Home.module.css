@@ -1,4 +1,6 @@
 
+
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -253,7 +255,6 @@
 .gridBoxImage{
     width: 250px;
     height: 150px;
-    background-color: #1c2c7d;
     background-size: cover;
 }
 

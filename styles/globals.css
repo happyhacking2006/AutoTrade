@@ -1,5 +1,11 @@
+:root {
+  --background: #171923;
+  --text-primary: #fff;
+
+}
+
 body{
-  background-color: #1A202c !important;
+  background-color: var(--background) !important;
   
 }
 
