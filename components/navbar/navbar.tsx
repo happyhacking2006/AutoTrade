@@ -8,6 +8,8 @@ import MenuIcon from '@mui/icons-material/Menu';
 import NightsStayIcon from '@mui/icons-material/NightsStay';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 
+
+
 const Navbar = () => {
 
   const SideBar = [
@@ -48,7 +50,7 @@ const Navbar = () => {
           <h1 className={styles.logo}>Aut<GarageIcon className={styles.logoIcon}/>  Trade</h1>
 
           <ul className={styles.navbarNav}>
-            <li className={styles.items}>Cars</li>
+            <Link href="/cars" className={styles.items}>Cars</Link>
             <li className={styles.items}>About</li>
             <li className={styles.items} onClick={changeTheme}>{theme ? <NightsStayIcon /> : <WbSunnyIcon />}</li>
             <li className={styles.items}>Sign In</li>

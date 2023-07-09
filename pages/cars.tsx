@@ -24,10 +24,10 @@ const Cars = () => {
                                         Year of issue: { item.yearOfIssue }
                                     </p>
                                     <p>
-                                        Mileage: { item.mileAge}km
+                                        Mileage: { item.mileAge }km
                                     </p>
                                     <p>
-                                        Max speed: { item.maxSpeed}km per hour
+                                        Max speed: { item.maxSpeed }km per hour
                                     </p>
                                 </div>
                             </div>
