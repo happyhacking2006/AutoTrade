@@ -9,8 +9,7 @@ const cars = [
         price: "8000$",
         maxSpeed: 170,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Malibu 2",
         id: 2,
@@ -21,8 +20,7 @@ const cars = [
         price: "23000$",
         maxSpeed: 250,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Nexia 2",
         id: 3,
@@ -33,8 +31,7 @@ const cars = [
         price: "6000$",
         maxSpeed: 185,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Damas",
         id: 4,
@@ -45,8 +42,7 @@ const cars = [
         price: "4500$",
         maxSpeed: 100,
         numberOfSeats: 7,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Gentra",
         id: 5,
@@ -57,8 +53,7 @@ const cars = [
         price: "95000$",
         maxSpeed: 185,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Nexia 3",
         id: 6,
@@ -69,8 +64,7 @@ const cars = [
         price: "9000$",
         maxSpeed: 178,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Москвич 412",
         id: 7,
@@ -81,8 +75,7 @@ const cars = [
         price: "2000$",
         maxSpeed: 140,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Matiz",
         id: 8,
@@ -93,8 +86,7 @@ const cars = [
         price: "12000$",
         maxSpeed: 154,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Captiva 3",
         id: 9,
@@ -105,8 +97,7 @@ const cars = [
         price: "16000$",
         maxSpeed: 198,
         numberOfSeats: 7,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Tico",
         id: 10,
@@ -117,8 +108,7 @@ const cars = [
         price: "12000$",
         maxSpeed: 145,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Лада Веста",
         id: 11,
@@ -129,8 +119,7 @@ const cars = [
         price: "12000$",
         maxSpeed: 182,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Spark",
         id: 12,
@@ -141,8 +130,7 @@ const cars = [
         price: "12000$",
         maxSpeed: 161,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "ЗИЛ-130",
         id: 13,
@@ -153,8 +141,7 @@ const cars = [
         price: "11000$",
         maxSpeed: 180,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Kia K5",
         id: 14,
@@ -165,8 +152,7 @@ const cars = [
         price: "36000$",
         maxSpeed: 180,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Nexia 1",
         id: 15,
@@ -177,8 +163,7 @@ const cars = [
         price: "12000$",
         maxSpeed: 175,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Kамаз 5320",
         id: 16,
@@ -189,8 +174,7 @@ const cars = [
         price: "20000$",
         maxSpeed: 180,
         numberOfSeats: 3,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Mercedes G-Class",
         id: 17,
@@ -201,8 +185,7 @@ const cars = [
         price: "215000$",
         maxSpeed: 210,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "HYUNDAI Tucson",
         id: 18,
@@ -213,8 +196,7 @@ const cars = [
         price: "35000$",
         maxSpeed: 184,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Lamborghini Huracan",
         id: 19,
@@ -225,8 +207,7 @@ const cars = [
         price: "230000$",
         maxSpeed: 180,
         numberOfSeats: 325,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     {
         name: "Lamborghini Urus",
         id: 20,
@@ -237,8 +218,7 @@ const cars = [
         price: "240000$",
         maxSpeed: 305,
         numberOfSeats: 5,
-        carUrl: "https://cfx-wp-images.imgix.net/2022/05/2020-Ford-Mustang-GT-edited.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&s=05bd4b865ee9ab19aeee9543c5bfa33a",
-    },
+        },
     // {
     //     name: "Cobalt",
     //     id: 21,
