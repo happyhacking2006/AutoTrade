@@ -10,7 +10,7 @@ const Cars = () => {
         <div className={styles.carsPageGrid}>
             {cars.map((item) => {
                 return(
-                    <div className={styles.carsPageBox}>
+                    <div key={item.id} className={styles.carsPageBox}>
                         <Image className={styles.carsPageImage} src={item.carImage} height={500} width={100} alt="21312"/>
                         <div className={styles.textsCarBlog}>
                                 <div className={styles.gridBoxText}>
